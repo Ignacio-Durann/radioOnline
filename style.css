@@ -1,0 +1,25 @@
+.chat-box {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-y: scroll;
+}
+
+.card-chat {
+    height: 80vh;
+    margin-top: 20px; /* Espacio entre la tarjeta de chat y la columna central */
+    overflow-y: auto;
+}
+
+.card-play-audio {
+    height: 60vh;
+    margin-top: 20px; /* Espacio entre la tarjeta de chat y la columna central */
+}
+.input-user{
+    margin-right: 30%;
+}
+.logo{
+    width: 20%;
+    height: 20%;
+}
